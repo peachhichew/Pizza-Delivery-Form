@@ -1,0 +1,2 @@
+# Pizza-Delivery-Form
+Create a GUI that is either looks so horrendous that you’d wish you were blind or one that is so beautiful that you could cry of happiness at any moment. Implement at least five different types of controls, with at least one of each type being active and providing various outcomes for events. Additionally, use a data structure that holds data and must have the ability to add, remove, and search for data within the structure.
