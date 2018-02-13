@@ -1,0 +1,18 @@
+Z:\IGMProfile\Desktop\IGME 102\Wan_P5\bin\Debug\Wan_P5.exe.config
+Z:\IGMProfile\Desktop\IGME 102\Wan_P5\bin\Debug\Wan_P5.exe
+Z:\IGMProfile\Desktop\IGME 102\Wan_P5\bin\Debug\Wan_P5.pdb
+Z:\IGMProfile\Desktop\IGME 102\Wan_P5\obj\Debug\Wan_P5.Form1.resources
+Z:\IGMProfile\Desktop\IGME 102\Wan_P5\obj\Debug\Wan_P5.Properties.Resources.resources
+Z:\IGMProfile\Desktop\IGME 102\Wan_P5\obj\Debug\Wan_P5.csproj.GenerateResource.Cache
+Z:\IGMProfile\Desktop\IGME 102\Wan_P5\obj\Debug\Wan_P5.exe
+Z:\IGMProfile\Desktop\IGME 102\Wan_P5\obj\Debug\Wan_P5.pdb
+Z:\IGMProfile\Desktop\IGME 102\Wan_P5\obj\Debug\Wan_P5.csprojResolveAssemblyReference.cache
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_P5\Wan_P5\bin\Debug\Wan_P5.exe.config
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_P5\Wan_P5\obj\Debug\Wan_P5.exe
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_P5\Wan_P5\obj\Debug\Wan_P5.pdb
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_P5\Wan_P5\bin\Debug\Wan_P5.exe
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_P5\Wan_P5\bin\Debug\Wan_P5.pdb
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_P5\Wan_P5\obj\Debug\Wan_P5.csprojResolveAssemblyReference.cache
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_P5\Wan_P5\obj\Debug\Wan_P5.Properties.Resources.resources
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_P5\Wan_P5\obj\Debug\Wan_P5.csproj.GenerateResource.Cache
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_P5\Wan_P5\obj\Debug\Wan_P5.wooferoniPizzur.resources
